@@ -1,0 +1,5 @@
+BXH ARENA v13.24.8
+1. Deploy index.html to the v13.24.8 GitHub Pages folder.
+2. Keep bxh-arena-og-image.jpg in the same folder for LINE/OG preview.
+3. Firestore Rules unchanged; continue using v13.24.6 rules.
+4. Main fix: account dropdown is no longer clipped/covered by the sticky header/page stacking contexts.
